@@ -1,0 +1,59 @@
+{
+  "work": [
+    {
+      "date": "May 2021 - Present",
+      "title": "Graduate Research Assistant for iWERS at UofSC",
+      "description": "I was assigned to develop and test custom ArcGIS WebAppBuilder Widgets and Plugins for the iWERS graduate group and the South Carolina Department of Transportation",
+      "stack": [
+       "Node.js",
+       "Dojo.js",
+       "jimu.js",
+       "ArcGIS WebAppBuilder",
+       "Javascript",
+       "HTML",
+       "CSS"
+      ]
+    },
+    {
+      "date": "August 2018 - May 2021",
+      "title": "Resident Mentor at the University of South Carolina",
+      "description": "I took on the responsibility to be a resource to over 25 freshmen students at the University of South Carolina. I provided the students with campus locations, resources, news, and policy enforcement to assist them in achieving success in college.",
+      "stack": [
+        "Office Suit"
+      ]
+    },
+    {
+      "date": "May 2020 - August 2020",
+      "title": "Software Development Engineer in Test Intern at CVS Health",
+      "description": "I worked on an sAFE Agile development team to test desktop, iOS mobile, and Android mobile applications for CVS Health's prescription ordering services.",
+      "stack": [
+        "Node.js",
+        "Javascript",
+        "Mocha.js",
+        "Chai.js",
+        "Cucumber.js",
+        "Jasmine",
+        "Karma",
+        "HTML",
+        "CSS",
+        "Jenkins",
+        "Git",
+        "SeeTest Automation",
+        "Rally"
+      ]
+    },
+    {
+      "date": "March 2019 - May 2020",
+      "title": "Information Technology Support Service",
+      "description":"I worked in giving IT support to the Chemical and Biomedical Engineering departments at the university of South Carolina. I built, imaged, and deployed systems enforcing the university's security policy, as well as troubleshooted system issues for faculty and students.",
+      "stack": [
+        "FireEye",
+        "PaloAlto Firewall",
+        "Symantic",
+        "MS Teams",
+        "Windows"
+      ]
+    }
+
+  ]
+}
