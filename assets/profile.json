@@ -1,0 +1,35 @@
+{
+  "email": "luisbisme@gmail.com",
+  "location": "Columbia, South Carolina",
+  "name": "Luis Baez",
+  "phone": "",
+  "avatar": "assets/media/lbisme.PNG",
+  "education": [
+    {
+      "title": "Bachelor of Science (BSc) in Computer Science",
+      "meta": "University of South Carolina,  August 2017 – May 2021"
+    },
+    {
+      "title": "Masters of Science (MSc) in Computer Science",
+      "meta": "University of South Carolina,  August 2021 – May 2022"
+    }
+  ],
+  "about": "I spent my childhood in Myrtle Beach, South Carolina &#127754 where I discovered my passion for computers. \n\nUsing the shared family computer, I would research many topics about the computer I was using, things such as 'how does this mouse work?'. From there I obtained an ever growing curiosity in computers. I started taking courses in highschool geared towards computer science such as college level mathematics courses and even an computer communications course. \n\nIn college, I became very involved in the Computer Science community and did everything I could to further grow my skill-set and passion within Computer's and Technology.",
+  "socials": [
+    {
+      "name": "luisbisme@gmail.com",
+      "link": "mailto:luisbisme@gmail.com",
+      "icon": "fa fa-envelope"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/AnadamaBread",
+      "icon": "fab fa-github"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/luis-b-b5bb4a128/",
+      "icon": "fab fa-linkedin"
+    }
+  ]
+}
